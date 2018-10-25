@@ -7,9 +7,9 @@ public class Customer {
     public double totalPurchase=0.0;    //el total
 
     public void displayCustomerInfo(){
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println("id: "+customerId);
+        System.out.println("status: "+status);
+        System.out.println("Total: "+totalPurchase);
     }
 
 }
