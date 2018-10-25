@@ -1,0 +1,47 @@
+Jugador
+************
+id
+nombre
+número
+*Equipo
+
+
+
+
+Equipo
+************
+id 
+nombre
+*Jugadores
+************
+Traer jugador clasificado
+
+
+
+Juego
+***********
+id
+marcador equipo 1
+marcador equipo 2
+*Gol
+***********
+Traer resultados
+
+
+
+Liga
+************
+*Equipo(s)
+*Juego(s)
+************
+Traer resultados del juego
+Traer equipos clasificados
+
+
+
+Gol
+************
+id
+*Equipo
+*Jugador
+tiempo
