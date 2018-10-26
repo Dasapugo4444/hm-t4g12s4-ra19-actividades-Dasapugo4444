@@ -1,0 +1,5 @@
+La clase Math tiene: 54 métodos
+La clase Math tiene: 2 Campos
+
+La superclase de todas las clases es Object
+Los métdos que permiten comparar dos cadenas son compareTo y compareToIgnoreCase
